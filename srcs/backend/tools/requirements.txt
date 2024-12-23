@@ -1,0 +1,9 @@
+Flask
+flask-cors
+pandas
+matplotlib
+numpy
+scipy
+datetime
+eod
+nelson_siegel_svensson
